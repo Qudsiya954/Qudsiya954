@@ -1,4 +1,4 @@
-👋 Hi, I’m @Qudsiya954
+👋 Hi, I’m Qudsiya Siddique
 
 👀 I’m interested in Web Development, App Development, and AI/ML.
 
