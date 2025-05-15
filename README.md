@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web Development, App Development, and AI/ML.
 
-🌱 I’m currently learning Backend Development.
+🌱 I’m currently learning AI/ML, Deep learning and Big Data
 
 💞️ I’m looking to collaborate on group projects.
 
