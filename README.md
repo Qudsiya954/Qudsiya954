@@ -1,8 +1,8 @@
 👋 Hi, I’m Qudsiya Siddique
 
-👀 I’m interested in Web Development, App Development, and AI/ML.
+👀 I’m interested in Machine Learning, Deep Learning, GenAi, Ai Agents..
 
-🌱 I’m currently learning AI/ML, Deep learning and Big Data
+🌱 I’m currently learning  Deep learning, GenAi,Mlops and Ai Agents.
 
 💞️ I’m looking to collaborate on group projects.
 
